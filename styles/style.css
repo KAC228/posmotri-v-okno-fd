@@ -208,6 +208,8 @@ ol {
 
 .content__details {
   max-width: 399px;
+  margin-bottom: 4px;
+  margin-left: 1px;
 }
 
 .title {
