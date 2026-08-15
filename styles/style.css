@@ -70,6 +70,7 @@ ol {
   justify-content: center;
   align-items: flex-end;
   flex-direction: row;
+  min-height: 534px;
   width: 1140px;
 }
 
@@ -102,7 +103,7 @@ ol {
   font-family: 'Fira Sans Condensed', Arial, sans-serif;
   font-weight: 400;
   font-size: 18px;
-  padding-bottom: 7.5px;
+  padding-bottom: 5px;
 }
 
 .search-form__label {
